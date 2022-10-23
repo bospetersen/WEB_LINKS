@@ -1,5 +1,7 @@
 ## Frameworks
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+- Website - [https://nestjs.com](https://nestjs.com/)
+- Nestjs on github - [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+#### --------------------------------------------------------------
 
 ## Running the app
 ```bash
@@ -16,7 +18,6 @@ $ npm run start:prod
 ## LINKS
 
 ## Nest.js 
-- Website - [https://nestjs.com](https://nestjs.com/)
 
 ## .env-files
 [https://www.makeuseof.com/nestjs-config-module-manage-environment-variables/](https://www.makeuseof.com/nestjs-config-module-manage-environment-variables/)

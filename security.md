@@ -1,0 +1,1 @@
+[Isomorphic Authorization JavaScript library](https://casl.js.org/v5/en/)
