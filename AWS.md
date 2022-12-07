@@ -79,3 +79,9 @@ The same is true for some key AWS marketing pages that you should visit and stud
 [CI - Continuous Integration](https://aws.amazon.com/devops/continuous-integration/)
 
 [CD - Continuous Delivery](https://aws.amazon.com/devops/continuous-delivery/)
+
+
+
+
+# YouTube Videos ---------------------------------------------------------------
+[AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam!](https://www.youtube.com/watch?v=SOTamWNgDKc)

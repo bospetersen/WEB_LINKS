@@ -6,3 +6,5 @@ SonarCloud is the leading online service to catch Security Vulnerabilities, Bugs
   
 [sonarlint/](https://www.sonarsource.com/products/sonarlint/)
 
+# Vagrant
+[Vagrant virtual boxes](https://app.vagrantup.com/boxes/search)
