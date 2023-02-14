@@ -1,11 +1,12 @@
 []()
 
-[neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com/)
-[machinelearningmastery.com](https://machinelearningmastery.com/)
-[chrisalbon.com/](https://chrisalbon.com/)
-[Understanding a Confusion Matrix and How to Plot It](https://www.turing.com/kb/how-to-plot-confusion-matrix)
+* [neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com/){:target="_blank"}
+* [machinelearningmastery.com](https://machinelearningmastery.com/)
+* [chrisalbon.com/](https://chrisalbon.com/)
+* [Understanding a Confusion Matrix and How to Plot It](https://www.turing.com/kb/how-to-plot-confusion-matrix)
+* [Applied Machine Learning Process](https://machinelearningmastery.com/process-for-working-through-machine-learning-problems/)
 
-# ---------------------------------------------------------------------------------------------
+# -----------
 
 ## Machine Learning Model Evaluation
 Classification Model Evaluation Metrics/Techniques
@@ -146,4 +147,4 @@ Course: https://www.khanacademy.org/math/calculus-home
 
 # Resources
 * [tensorflow.org/resources](https://www.tensorflow.org/resources/learn-ml)
-* [Applied Machine Learning Process](https://machinelearningmastery.com/process-for-working-through-machine-learning-problems/)
+
