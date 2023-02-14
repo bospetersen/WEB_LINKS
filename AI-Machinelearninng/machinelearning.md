@@ -1,15 +1,13 @@
-[]()
-<base target="_blank" />
-
+[]() 
+# Websites
 * [neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com/)
 * [machinelearningmastery.com](https://machinelearningmastery.com/)
+## Notes
 * [chrisalbon.com/](https://chrisalbon.com/)
 * [Understanding a Confusion Matrix and How to Plot It](https://www.turing.com/kb/how-to-plot-confusion-matrix)
 * [Applied Machine Learning Process](https://machinelearningmastery.com/process-for-working-through-machine-learning-problems/)
 
-# -----------
-
-## Machine Learning Model Evaluation
+# Machine Learning Model Evaluation
 Classification Model Evaluation Metrics/Techniques
 
 **Accuracy** - The accuracy of the model in decimal form. Perfect accuracy is equal to 1.0.
@@ -30,8 +28,6 @@ Classification Model Evaluation Metrics/Techniques
 
 [Area Under Curve (AUC) Score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html) - The area underneath the ROC curve. A perfect model achieves an AUC score of 1.0.
 
-# ---------------------------------------------------------------------------------------------
-
 ## Regression Model Evaluation Metrics/Techniques
 [R^2 (pronounced r-squared) or the coefficient of determination](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html) - Compares your model's predictions to the mean of the targets. Values can range from negative infinity (a very poor model) to 1. For example, if all your model does is predict the mean of the targets, its R^2 value would be 0. And if your model perfectly predicts a range of numbers it's R^2 value would be 1.
 
@@ -45,23 +41,18 @@ For more resources on evaluating a machine learning model, be sure to check out 
 [Beyond Accuracy: Precision and Recall by Will Koehrsen](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
 [Stack Overflow answer describing MSE (mean squared error) and RSME (root mean squared error)](https://stackoverflow.com/a/37861832)
 
-# ---------------------------------------------------------------------------------------------
 
-## Reading Extension: ROC Curve + AUC
+# Reading Extension: ROC Curve + AUC
 For more information on these metrics, bookmark the following resources and refer to them when you need:
   [ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM) by StatQuest
   [ROC documentation in Scikit-Learn](https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html) (contains code examples)
   [How the ROC curve and AUC are calculated](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc) by Google's Machine Learning team
 
-# ---------------------------------------------------------------------------------------------
-
-# CNN
+### CNN
 [Image Kernels](https://setosa.io/ev/image-kernels/)
 
-# RNN
+### RNN
 [How to Use the TimeseriesGenerator for Time Series Forecasting in Keras](https://machinelearningmastery.com/how-to-use-the-timeseriesgenerator-for-time-series-forecasting-in-keras/)
-
-# ---------------------------------------------------------------------------------------------
 
 # Mathematics for Machine Learning
 Github: [Mathematics for Machine Learning](https://github.com/dair-ai/Mathematics-for-ML.git)
@@ -70,30 +61,22 @@ A collection of resources to learn and review mathematics for machine learning.
 ### 📖 Books
 Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning
 
-Book: https://www.cis.upenn.edu/~jean/math-deep.pdf
-Applied Math and Machine Learning Basics
+Book: [Applied Math and Machine Learning Basics](https://www.cis.upenn.edu/~jean/math-deep.pdf)
 
-Chapter: https://www.deeplearningbook.org/contents/part_basics.html
-Mathematics for Machine Learning
+Chapter: [Mathematics for Machine Learning](https://www.deeplearningbook.org/contents/part_basics.html)
 
-Book: https://mml-book.github.io
-Probabilistic Machine Learning: An Introduction
+Book: [Probabilistic Machine Learning: An Introduction](https://mml-book.github.io)
 
-Book: https://probml.github.io/pml-book/book1.html
-Mathematics for Deep Learning
+Book: [Mathematics for Deep Learning](https://probml.github.io/pml-book/book1.html)
 
-Chapter: https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html
-Bayes Rules! An Introduction to Applied Bayesian Modeling
-
-Book: https://www.bayesrulesbook.com/index.html
+Book: [Bayes Rules!](https://www.bayesrulesbook.com/index.html)
+Chapter: [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html)
 
 ### 📄 Papers
 The Matrix Calculus You Need For Deep Learning
 
-Paper: https://arxiv.org/abs/1802.01528
-The Mathematics of AI
-
-Paper: https://arxiv.org/pdf/2203.08890.pdf
+Paper: [The Mathematics of AI](https://arxiv.org/abs/1802.01528)
+Paper: [https://arxiv.org/pdf/2203.08890.pdf](https://arxiv.org/pdf/2203.08890.pdf)
 
 ### 🎥 Video Lectures
 Multivariate Calculus by Imperial College London
@@ -128,23 +111,19 @@ Calculus
 
 Course: https://www.khanacademy.org/math/calculus-home
 
-# ---------------------------------------------------------------------------------------------
-
+# Feature Scaling
 [Feature Scaling](https://medium.com/@rahul77349/feature-scaling-why-it-is-required-8a93df1af310) - why is it required? by Rahul Saini
 
 [Feature Scaling with Scikit-Learn](https://benalexkeen.com/feature-scaling-with-scikit-learn/) by Ben Alex Keen
 
 [Feature Scaling for Machine Learning: Understanding the Difference Between Normalization vs. Standardization](https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/) by Aniruddha Bhandari 
 
-
-# ---------------------------------------------------------------------------------------------
 ## Youtube
 [(Non-technical) How Machines Learn by GCP Grey: ](https://www.youtube.com/watch?v=R9OHn5ZF4Uo)
 
 [(Technical) Deep Learning series by 3Blue1Brown: ](https://www.youtube.com/watch?v=aircAruvnKk)
-# ---------------------------------------------------------------------------------------------
-[PyTorch at Tesla - Andrej Karpathy, Tesla](https://www.youtube.com/watch?v=oBklltKXtDE&t=173s)
 
+[PyTorch at Tesla - Andrej Karpathy, Tesla](https://www.youtube.com/watch?v=oBklltKXtDE&t=173s)
 
 # Resources
 * [tensorflow.org/resources](https://www.tensorflow.org/resources/learn-ml)
