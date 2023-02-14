@@ -1,5 +1,7 @@
 []() 
-# Websites
+
+# Resources
+* [tensorflow.org/resources](https://www.tensorflow.org/resources/learn-ml)
 * [neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com/)
 * [machinelearningmastery.com](https://machinelearningmastery.com/)
 ## Notes
@@ -38,15 +40,19 @@ Classification Model Evaluation Metrics/Techniques
 For more resources on evaluating a machine learning model, be sure to check out the following resources:
 
 [Scikit-Learn documentation for metrics and scoring (quantifying the quality of predictions)](https://scikit-learn.org/stable/modules/model_evaluation.html)
+
 [Beyond Accuracy: Precision and Recall by Will Koehrsen](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
+
 [Stack Overflow answer describing MSE (mean squared error) and RSME (root mean squared error)](https://stackoverflow.com/a/37861832)
 
 
 # Reading Extension: ROC Curve + AUC
 For more information on these metrics, bookmark the following resources and refer to them when you need:
-  [ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM) by StatQuest
-  [ROC documentation in Scikit-Learn](https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html) (contains code examples)
-  [How the ROC curve and AUC are calculated](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc) by Google's Machine Learning team
+[ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM) by StatQuest
+
+[ROC documentation in Scikit-Learn](https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html) (contains code examples)
+
+[How the ROC curve and AUC are calculated](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc) by Google's Machine Learning team
 
 ### CNN
 [Image Kernels](https://setosa.io/ev/image-kernels/)
@@ -61,33 +67,28 @@ A collection of resources to learn and review mathematics for machine learning.
 ### 📖 Books
 Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning
 
-Book: [Applied Math and Machine Learning Basics](https://www.cis.upenn.edu/~jean/math-deep.pdf)
+* Book: [Applied Math and Machine Learning Basics](https://www.cis.upenn.edu/~jean/math-deep.pdf)
+* Chapter: [Mathematics for Machine Learning](https://www.deeplearningbook.org/contents/part_basics.html)
+* Book: [Probabilistic Machine Learning: An Introduction](https://mml-book.github.io)
+* Book: [Mathematics for Deep Learning](https://probml.github.io/pml-book/book1.html)
 
-Chapter: [Mathematics for Machine Learning](https://www.deeplearningbook.org/contents/part_basics.html)
-
-Book: [Probabilistic Machine Learning: An Introduction](https://mml-book.github.io)
-
-Book: [Mathematics for Deep Learning](https://probml.github.io/pml-book/book1.html)
-
-Book: [Bayes Rules!](https://www.bayesrulesbook.com/index.html)
-Chapter: [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html)
+* Book: [Bayes Rules!](https://www.bayesrulesbook.com/index.html)  
+  * Chapter: [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html)
 
 ### 📄 Papers
 The Matrix Calculus You Need For Deep Learning
 
-Paper: [The Mathematics of AI](https://arxiv.org/abs/1802.01528)
-Paper: [https://arxiv.org/pdf/2203.08890.pdf](https://arxiv.org/pdf/2203.08890.pdf)
+* Paper: [The Mathematics of AI](https://arxiv.org/abs/1802.01528)
+* Paper: [https://arxiv.org/pdf/2203.08890.pdf](https://arxiv.org/pdf/2203.08890.pdf)
 
 ### 🎥 Video Lectures
 Multivariate Calculus by Imperial College London
 
-Video Playlist: https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23
-Mathematics for Machine Learning - Linear Algebra
+Video Playlist: [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)
 
-Video Playlist: https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3
-CS229: Machine Learning
+Video Playlist: [CS229: Machine Learning](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
 
-Course: https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh
+Course: [https://www.youtube.com/](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
 
 ### 🧮 Math Basics
 The Elements of Statistical Learning
@@ -119,12 +120,8 @@ Course: https://www.khanacademy.org/math/calculus-home
 [Feature Scaling for Machine Learning: Understanding the Difference Between Normalization vs. Standardization](https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/) by Aniruddha Bhandari 
 
 ## Youtube
-[(Non-technical) How Machines Learn by GCP Grey: ](https://www.youtube.com/watch?v=R9OHn5ZF4Uo)
+* [(Non-technical) How Machines Learn by GCP Grey: ](https://www.youtube.com/watch?v=R9OHn5ZF4Uo)
+* [(Technical) Deep Learning series by 3Blue1Brown: ](https://www.youtube.com/watch?v=aircAruvnKk)
+* [PyTorch at Tesla - Andrej Karpathy, Tesla](https://www.youtube.com/watch?v=oBklltKXtDE&t=173s)
 
-[(Technical) Deep Learning series by 3Blue1Brown: ](https://www.youtube.com/watch?v=aircAruvnKk)
-
-[PyTorch at Tesla - Andrej Karpathy, Tesla](https://www.youtube.com/watch?v=oBklltKXtDE&t=173s)
-
-# Resources
-* [tensorflow.org/resources](https://www.tensorflow.org/resources/learn-ml)
 
