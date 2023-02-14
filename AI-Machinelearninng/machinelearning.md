@@ -145,4 +145,5 @@ Course: https://www.khanacademy.org/math/calculus-home
 
 
 # Resources
-[](https://www.tensorflow.org/resources/learn-ml)
+* [tensorflow.org/resources](https://www.tensorflow.org/resources/learn-ml)
+* [Applied Machine Learning Process](https://machinelearningmastery.com/process-for-working-through-machine-learning-problems/)
