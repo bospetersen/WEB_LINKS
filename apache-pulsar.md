@@ -1,3 +1,5 @@
+[]()
+
 [Apache Pulsar vs Kafka: Which is Better? 5 Critical Differences](https://hevodata.com/learn/pulsar-vs-kafka/)
 
 [7 Reasons to Choose Apache Pulsar over Apache Kafka](https://medium.com/building-the-open-data-stack/7-reasons-to-choose-apache-pulsar-over-apache-kafka-cb111087eadb)
