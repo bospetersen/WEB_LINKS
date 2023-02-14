@@ -1,6 +1,7 @@
 []()
+<base target="_blank" />
 
-* [neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com/){:target="_blank"}
+* [neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com/)
 * [machinelearningmastery.com](https://machinelearningmastery.com/)
 * [chrisalbon.com/](https://chrisalbon.com/)
 * [Understanding a Confusion Matrix and How to Plot It](https://www.turing.com/kb/how-to-plot-confusion-matrix)
