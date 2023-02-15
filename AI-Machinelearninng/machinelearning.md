@@ -102,7 +102,7 @@ Github: [Mathematics for Machine Learning](https://github.com/dair-ai/Mathematic
 # Feature Scaling
 * [Feature Scaling](https://medium.com/@rahul77349/feature-scaling-why-it-is-required-8a93df1af310) - why is it required? by Rahul Saini
 * [Feature Scaling with Scikit-Learn](https://benalexkeen.com/feature-scaling-with-scikit-learn/) by Ben Alex Keen
-* [Feature Scaling for Machine Learning: Understanding the Difference Between Normalization vs. Standardization](https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/) by Aniruddha Bhandari 
+* [Feature Scaling for Machine Learning](https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/) Understanding the Difference Between Normalization vs. Standardization by Aniruddha Bhandari 
 
 ## Youtube
 * [(Non-technical) How Machines Learn by GCP Grey: ](https://www.youtube.com/watch?v=R9OHn5ZF4Uo)
