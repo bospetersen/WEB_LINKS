@@ -5,7 +5,7 @@
 
 ## Coral Dev Board 1GB / 4GB
 * [www.arrow.com](https://www.arrow.com/en/products/g950-06210-01/google-corporation)
-* [pi3g.com](https://pi3g.com/products/machine-learning/google-coral/coral-dev-board-4gb/) - Coral Dev Board 1GB / 4GB
+* [pi3g.com](https://pi3g.com/products/machine-learning/google-coral/coral-dev-board-4gb/)
 
 ## mendel-linux
 * [mendel-linux](https://coral.ai/technology/#mendel-linux)

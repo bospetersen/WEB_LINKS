@@ -11,6 +11,12 @@
 * [Understanding a Confusion Matrix and How to Plot It](https://www.turing.com/kb/how-to-plot-confusion-matrix)
 * [Applied Machine Learning Process](https://machinelearningmastery.com/process-for-working-through-machine-learning-problems/)
 
+## Course
+* [https://www.elementsofai.dk/](https://www.elementsofai.dk/)
+
+## Guides
+* [The Ultimate Guide to Regression & Classification](https://www.superdatascience.com/blogs/the-ultimate-guide-to-regression-classification)
+
 # Evaluation
 ## Machine Learning Model Evaluation
 **Classification Model Evaluation Metrics/Techniques**
