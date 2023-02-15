@@ -5,5 +5,5 @@
 ## Cloud
 * [Okta Identity Cloud ](https://www.okta.com)
 
-## Monotoring
+## Monitoring
 * [Splunk tutorial](https://www.guru99.com/splunk-tutorial.html)

@@ -17,6 +17,9 @@
 ## Guides
 * [The Ultimate Guide to Regression & Classification](https://www.superdatascience.com/blogs/the-ultimate-guide-to-regression-classification)
 
+## Books
+* [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.saxo.com/dk/hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow_aurelien-geron_paperback_9781492032649#)
+
 # Evaluation
 ## Machine Learning Model Evaluation
 **Classification Model Evaluation Metrics/Techniques**
