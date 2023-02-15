@@ -7,6 +7,3 @@
 
 ## Monotoring
 * [Splunk tutorial](https://www.guru99.com/splunk-tutorial.html)
-
-# PROGRAMMIN
-* [Isomorphic Authorization JavaScript library](https://casl.js.org/v5/en/)
