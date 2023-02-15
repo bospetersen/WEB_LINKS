@@ -13,7 +13,7 @@
 
 # Evaluation
 ## Machine Learning Model Evaluation
-Classification Model Evaluation Metrics/Techniques
+**Classification Model Evaluation Metrics/Techniques**
 
 **Accuracy** - The accuracy of the model in decimal form. Perfect accuracy is equal to 1.0.
 
@@ -50,7 +50,8 @@ For more resources on evaluating a machine learning model, be sure to check out 
 
 
 # Reading Extension: ROC Curve + AUC
-For more information on these metrics, bookmark the following resources and refer to them when you need:
+**For more information on these metrics, bookmark the following resources and refer to them when you need:**
+
 * [ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM) by StatQuest
 * [ROC documentation in Scikit-Learn](https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html) (contains code examples)
 * [How the ROC curve and AUC are calculated](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc) by Google's Machine Learning team
@@ -62,11 +63,10 @@ For more information on these metrics, bookmark the following resources and refe
 * [How to Use the TimeseriesGenerator for Time Series Forecasting in Keras](https://machinelearningmastery.com/how-to-use-the-timeseriesgenerator-for-time-series-forecasting-in-keras/)
 
 # Mathematics for Machine Learning
-Github: [Mathematics for Machine Learning](https://github.com/dair-ai/Mathematics-for-ML.git)
-A collection of resources to learn and review mathematics for machine learning.
+Github: [Mathematics for Machine Learning](https://github.com/dair-ai/Mathematics-for-ML.git) - A collection of resources to learn and review mathematics for machine learning.
 
 ### 📖 Books
-Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning
+**Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning**
 
 * Book: [Applied Math and Machine Learning Basics](https://www.cis.upenn.edu/~jean/math-deep.pdf)
 * Chapter: [Mathematics for Machine Learning](https://www.deeplearningbook.org/contents/part_basics.html)
@@ -77,20 +77,20 @@ Algebra, Topology, Differential Calculus, and Optimization Theory For Computer S
   * Chapter: [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html)
 
 ### 📄 Papers
-The Matrix Calculus You Need For Deep Learning
+**The Matrix Calculus You Need For Deep Learning**
 
 * Paper: [The Mathematics of AI](https://arxiv.org/abs/1802.01528)
 * Paper: [https://arxiv.org/pdf/2203.08890.pdf](https://arxiv.org/pdf/2203.08890.pdf)
 
 ### 🎥 Video Lectures
-Multivariate Calculus by Imperial College London
+**Multivariate Calculus by Imperial College London**
 
 * Video Playlist: [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)
 * Video Playlist: [CS229: Machine Learning](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
 * Course: [https://www.youtube.com/](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
 
 ### 🧮 Math Basics
-The Elements of Statistical Learning
+**The Elements of Statistical Learning**
 
 * Book: [https://hastie.su.domains/ElemStatLearn/](https://hastie.su.domains/ElemStatLearn/)
 * Source: [Information Theory, Inference and Learning Algorithms](https://bayes.wustl.edu/etj/prob/book.pdf)
