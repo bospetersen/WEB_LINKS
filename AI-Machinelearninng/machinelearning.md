@@ -42,11 +42,11 @@
 
 For more resources on evaluating a machine learning model, be sure to check out the following resources:
 
-[Scikit-Learn documentation for metrics and scoring (quantifying the quality of predictions)](https://scikit-learn.org/stable/modules/model_evaluation.html)
+[Scikit-Learn documentation](https://scikit-learn.org/stable/modules/model_evaluation.html) for metrics and scoring (quantifying the quality of predictions)
 
-[Beyond Accuracy: Precision and Recall by Will Koehrsen](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
+[Beyond Accuracy:](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c) Precision and Recall by Will Koehrsen
 
-[Stack Overflow answer describing MSE (mean squared error) and RSME (root mean squared error)](https://stackoverflow.com/a/37861832)
+[Describing MSE (mean squared error) and RSME (root mean squared error)](https://stackoverflow.com/a/37861832) - Stack Overflow answer
 
 
 # Reading Extension: ROC Curve + AUC
