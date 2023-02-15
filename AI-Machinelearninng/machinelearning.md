@@ -1,15 +1,18 @@
 []() 
+# Machine Learning
 
-# Resources
+## Resources
 * [tensorflow.org/resources](https://www.tensorflow.org/resources/learn-ml)
 * [neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com/)
 * [machinelearningmastery.com](https://machinelearningmastery.com/)
+
 ## Notes
 * [chrisalbon.com/](https://chrisalbon.com/)
 * [Understanding a Confusion Matrix and How to Plot It](https://www.turing.com/kb/how-to-plot-confusion-matrix)
 * [Applied Machine Learning Process](https://machinelearningmastery.com/process-for-working-through-machine-learning-problems/)
 
-# Machine Learning Model Evaluation
+# Evaluation
+## Machine Learning Model Evaluation
 Classification Model Evaluation Metrics/Techniques
 
 **Accuracy** - The accuracy of the model in decimal form. Perfect accuracy is equal to 1.0.
@@ -48,17 +51,15 @@ For more resources on evaluating a machine learning model, be sure to check out 
 
 # Reading Extension: ROC Curve + AUC
 For more information on these metrics, bookmark the following resources and refer to them when you need:
-[ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM) by StatQuest
-
-[ROC documentation in Scikit-Learn](https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html) (contains code examples)
-
-[How the ROC curve and AUC are calculated](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc) by Google's Machine Learning team
+* [ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM) by StatQuest
+* [ROC documentation in Scikit-Learn](https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html) (contains code examples)
+* [How the ROC curve and AUC are calculated](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc) by Google's Machine Learning team
 
 ### CNN
-[Image Kernels](https://setosa.io/ev/image-kernels/)
+* [Image Kernels](https://setosa.io/ev/image-kernels/)
 
 ### RNN
-[How to Use the TimeseriesGenerator for Time Series Forecasting in Keras](https://machinelearningmastery.com/how-to-use-the-timeseriesgenerator-for-time-series-forecasting-in-keras/)
+* [How to Use the TimeseriesGenerator for Time Series Forecasting in Keras](https://machinelearningmastery.com/how-to-use-the-timeseriesgenerator-for-time-series-forecasting-in-keras/)
 
 # Mathematics for Machine Learning
 Github: [Mathematics for Machine Learning](https://github.com/dair-ai/Mathematics-for-ML.git)
@@ -84,40 +85,25 @@ The Matrix Calculus You Need For Deep Learning
 ### 🎥 Video Lectures
 Multivariate Calculus by Imperial College London
 
-Video Playlist: [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)
-
-Video Playlist: [CS229: Machine Learning](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
-
-Course: [https://www.youtube.com/](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
+* Video Playlist: [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)
+* Video Playlist: [CS229: Machine Learning](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
+* Course: [https://www.youtube.com/](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
 
 ### 🧮 Math Basics
 The Elements of Statistical Learning
 
-Book: https://hastie.su.domains/ElemStatLearn/
-
-Source: https://bayes.wustl.edu/etj/prob/book.pdf
-Information Theory, Inference and Learning Algorithms
-
-Book: https://www.inference.org.uk/itprnn/book.html
-Statistics and probability
-
-Course: https://www.khanacademy.org/math/statistics-probability
-Linear Algebra Done Right
-
-Lecture and Slides: https://linear.axler.net/LADRvideos.html
-Linear Algebra
-
-Course: https://www.khanacademy.org/math/linear-algebra
-Calculus
-
-Course: https://www.khanacademy.org/math/calculus-home
+* Book: [https://hastie.su.domains/ElemStatLearn/](https://hastie.su.domains/ElemStatLearn/)
+* Source: [Information Theory, Inference and Learning Algorithms](https://bayes.wustl.edu/etj/prob/book.pdf)
+* Book: [Statistics and probability](https://www.inference.org.uk/itprnn/book.html)
+* Course: [Linear Algebra Done Right](https://www.khanacademy.org/math/statistics-probability)
+* Lecture and Slides: [Linear Algebra](https://linear.axler.net/LADRvideos.html)
+* Course: [Calculus](https://www.khanacademy.org/math/linear-algebra)
+* Course: [https://www.khanacademy.org/math/calculus-home](https://www.khanacademy.org/math/calculus-home)
 
 # Feature Scaling
-[Feature Scaling](https://medium.com/@rahul77349/feature-scaling-why-it-is-required-8a93df1af310) - why is it required? by Rahul Saini
-
-[Feature Scaling with Scikit-Learn](https://benalexkeen.com/feature-scaling-with-scikit-learn/) by Ben Alex Keen
-
-[Feature Scaling for Machine Learning: Understanding the Difference Between Normalization vs. Standardization](https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/) by Aniruddha Bhandari 
+* [Feature Scaling](https://medium.com/@rahul77349/feature-scaling-why-it-is-required-8a93df1af310) - why is it required? by Rahul Saini
+* [Feature Scaling with Scikit-Learn](https://benalexkeen.com/feature-scaling-with-scikit-learn/) by Ben Alex Keen
+* [Feature Scaling for Machine Learning: Understanding the Difference Between Normalization vs. Standardization](https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/) by Aniruddha Bhandari 
 
 ## Youtube
 * [(Non-technical) How Machines Learn by GCP Grey: ](https://www.youtube.com/watch?v=R9OHn5ZF4Uo)
