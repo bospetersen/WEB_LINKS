@@ -105,8 +105,8 @@ Github: [Mathematics for Machine Learning](https://github.com/dair-ai/Mathematic
 * [Feature Scaling for Machine Learning](https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/) Understanding the Difference Between Normalization vs. Standardization by Aniruddha Bhandari 
 
 ## Youtube
-* [(Non-technical) How Machines Learn by GCP Grey: ](https://www.youtube.com/watch?v=R9OHn5ZF4Uo)
-* [(Technical) Deep Learning series by 3Blue1Brown: ](https://www.youtube.com/watch?v=aircAruvnKk)
-* [PyTorch at Tesla - Andrej Karpathy, Tesla](https://www.youtube.com/watch?v=oBklltKXtDE&t=173s)
+* [(Non-technical) How Machines Learn](https://www.youtube.com/watch?v=R9OHn5ZF4Uo) - by GCP Grey
+* [(Technical) Deep Learning series](https://www.youtube.com/watch?v=aircAruvnKk) - by 3Blue1Brown
+* [PyTorch at Tesla](https://www.youtube.com/watch?v=oBklltKXtDE&t=173s) - Andrej Karpathy, Tesla
 
 
