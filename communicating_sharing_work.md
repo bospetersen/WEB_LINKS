@@ -1,6 +1,5 @@
-Communicating and sharing your work: Further reading
+# Communicating and sharing your work: 
 Recommended Further Reading and Resources
-
 
 [How to Think About Communicating and Sharing Your Technical Work](https://www.mrdbourke.com/how-to-think-about-communicating-and-sharing-your-work/) - the blog post version of the videos you've just been through. You can save this for quick reference later on.
 
