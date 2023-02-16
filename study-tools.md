@@ -1,7 +1,7 @@
 []()
-
-[https://sphweb.bumc.bu.edu/otlt/MPH-Modules/Menu/]
+# Study tools
+* [https://sphweb.bumc.bu.edu/otlt/MPH-Modules/Menu/]
 (https://sphweb.bumc.bu.edu/otlt/MPH-Modules/Menu/)
 
-# Research papers
-[https://core.ac.uk/](https://core.ac.uk/)
+### Research papers
+* [https://core.ac.uk/](https://core.ac.uk/)

@@ -1,3 +1,3 @@
 []()
-
-[Vagrant Documentation](https://developer.hashicorp.com/vagrant/docs)
+# Vagrant
+* [Documentation](https://developer.hashicorp.com/vagrant/docs)

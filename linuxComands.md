@@ -1,5 +1,4 @@
 []()
-
 # SCP to remote server
 scp -r -i Linux-Security-Server.pem GX010012.MP4 ubuntu@3.82.127.245:/tmp/video/
 
