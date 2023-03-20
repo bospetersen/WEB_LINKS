@@ -21,3 +21,8 @@
 #### Tools
 * [spyder-ide.org/](https://docs.spyder-ide.org/current/index.html)
 * [Python tools for data visualization](https://pyviz.org/)
+
+
+# Tutorials
+* [pythonandvba.com - Practical Business Python & VBA Tips](https://pythonandvba.com/)
+  * [github.com](https://github.com/Sven-Bo)
