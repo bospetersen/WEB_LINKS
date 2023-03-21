@@ -1,4 +1,4 @@
-[]()
+
 # Computer Security
 * [Computer Security Resource Center](https://csrc.nist.gov/)
 
