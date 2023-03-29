@@ -1,3 +1,6 @@
+# Youtube
+[Learn Vite – Frontend Build Tool Course](https://youtu.be/VAeRhmpcWEQ)
+
 # Frontend
 * [Logicroom](https://www.logicroom.co/blog) - Blog
 
