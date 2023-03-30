@@ -1,6 +1,4 @@
 import os
-
-import datetime
 import time
 # str(datetime.now().strftime('%Y_%m_%d_%H_%M_%S'))
 today =format(time.strftime("%Y/%m/%d %H:%M:%S"))
