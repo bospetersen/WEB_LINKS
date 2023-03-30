@@ -4,4 +4,4 @@
 [regexone.com](https://regexone.com/)
 
 ## Video
-[Use ChatGPT to Build a RegEx Generator – OpenAI API Low Code Course](https://www.youtube.com/watch?v=D6Xj_W4leu8)
+[Use ChatGPT to Build a RegEx Generator – OpenAI API Low Code Course](https://www.youtube.com/watch?v=D6Xj_W4leu8) 
