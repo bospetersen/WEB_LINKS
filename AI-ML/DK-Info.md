@@ -4,3 +4,6 @@
 
 
 [Suggested criteria for using AI/ML algorithms in GxP](https://laegemiddelstyrelsen.dk/en/licensing/supervision-and-inspection/inspection-of-authorised-pharmaceutical-companies/using-aiml-algorithms-in-gxp/)
+
+## NLP
+* [spaCy - nu også med modeller på dansk](https://sprogteknologi.dk/blog/spacy-nu-ogsa-med-modeller-pa-dansk)
