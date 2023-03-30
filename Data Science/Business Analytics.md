@@ -65,7 +65,7 @@
 
 ## Normalisation or Data scaling
 
-# Probability Theory
+## Probability Theory
 
 ## Propability 
 * Probability is simply how likely something is to happen. 
@@ -86,9 +86,9 @@
 * **Proportions:** total fraction of events that happened.
 * **Propability** posible outcome of an event that could happen.
 
-# Probability mass
+## Probability mass
 
-# Probability density
+## Probability density
   * Probability density function
   * Comulative density function
   * Sampling variability.
@@ -130,7 +130,6 @@
   * #### [spurious-correlations](https://www.wnycstudios.org/podcasts/otm/articles/spurious-correlations), ref: [tylervigen.com](https://www.tylervigen.com/spurious-correlations)
 
 # Hypothesis testing
-
 ## Dependent variable vs Independenet variable
   * DV - Dependent variables are also called **Outcome variables**
     * The variable you are trying to explain. 
@@ -261,7 +260,7 @@
 ## Powerposing and p-hacking
 
 
-# Web
+# Online information
 ## Statistics
 * [statology.org](https://www.statology.org/)
 * [Statistics intro: Mean, median, & mode](https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/v/statistics-intro-mean-median-and-mode)
