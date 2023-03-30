@@ -1,6 +1,7 @@
 # Statistical terms
 
-# What is data?
+## What is data?
+
 ## Central tendency
 
 
@@ -57,7 +58,7 @@
     * Standard deviation measures the dispersion of a dataset relative to its mean.
     * **It is calculated as the square root of the variance.**
     * Standard deviation, in finance, is often used as a measure of a relative riskiness of an asset.
-    ### * *The standard deviation is graphically depicted as a bell curve's width around the mean of a data set.* **The wider the curve's width, the larger a data set's standard deviation from the mean.**
+    #### *The standard deviation is graphically depicted as a bell curve's width around the mean of a data set.* **The wider the curve's width, the larger a data set's standard deviation from the mean.**
   * What Does a High Standard Deviation Mean?
     * *A large standard deviation indicates that there is a lot of variance in the observed data around the mean. This indicates that the data observed is quite spread out.* 
     * *A small or low standard deviation would indicate instead that much of the data observed is clustered tightly around the mean.*
