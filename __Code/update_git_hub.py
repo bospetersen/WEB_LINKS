@@ -7,6 +7,7 @@ print(today)
 
 os.system(f'cd {os.path.dirname(__file__)}../')
 
+print(' ')
 print('-- git add . -----------------------------------------------------------------------------')
 print(' ')
 os.system(f'git add . ')
