@@ -1,9 +1,9 @@
-
-
+# Apache Pulsar
+## Pulsar vs Kafka
 * [Apache Pulsar vs Kafka: Which is Better? 5 Critical Differences](https://hevodata.com/learn/pulsar-vs-kafka/)
 * [7 Reasons to Choose Apache Pulsar over Apache Kafka](https://medium.com/building-the-open-data-stack/7-reasons-to-choose-apache-pulsar-over-apache-kafka-cb111087eadb)
 
-
+## About - Docs - Tutorials
 * [Apache Pulsar - Cloud-Native, Distributed Messaging and Streaming](https://pulsar.apache.org/)
 
 * [Apache Pulsar - Global architecture and local setup](https://www.waitingforcode.com/apache-pulsar/apache-pulsar-global-architecture-local-setup/read) - Read also about Apache Pulsar - global architecture and local setup here:
@@ -20,7 +20,7 @@ If you liked it, you should read:
   - [Global and local Apache ZooKeeper in Apache Pulsar - part 1](https://www.waitingforcode.com/apache-pulsar/global-local-apache-zookeeper-apache-pulsar-part-1/read)
 
 <!-- ---------------------- -->
-
+## Beginner/Intro Guides
 * [Intro to Apache Pulsar 101](https://www.youtube.com/watch?v=Hp9m-O9f9yo)
 * [StreamNative Hub - Discover Apache Pulsar Ecosystem](https://hub.streamnative.io/)
   - [StreamNative Training](https://streamnative.io/en/training/)

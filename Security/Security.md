@@ -1,5 +1,5 @@
-
 # Computer Security
+## Resources
 * [Computer Security Resource Center](https://csrc.nist.gov/)
 
 ## Cloud
@@ -7,3 +7,6 @@
 
 ## Monitoring
 * [Splunk tutorial](https://www.guru99.com/splunk-tutorial.html)
+
+## JWT
+* [https://jwt.io/](https://jwt.io/)

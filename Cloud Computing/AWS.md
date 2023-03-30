@@ -1,6 +1,5 @@
-
-
-# Cloud Advantages - AWS Summaries
+# AWS
+## Cloud Advantages - AWS Summaries
 The previous lectures (video: 1-9) explained various key cloud computing benefits.
 
 For the Cloud Practitioner certification exam, you should know these benefits and also the benefits / explanations mentioned by AWS itself: [https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html)
@@ -12,17 +11,17 @@ These benefits are of course related to the explanations from the previous lectu
 * [Amazon cli](https://aws.amazon.com/cli/)
     * [cli-configure-quickstart](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html)
 
-# EC2
+### EC2
 * [Create & assigned a Key Pair to the EC2 instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html)
 * [Connect to instance via PuTTY ](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html)
 
-# Traning
- * [Free aws traning lessons](https://aws.amazon.com/training/digital/?sc_icampaign=aware_digitaltraining_sitewide_free_global_traincert_100-dl&sc_ichannel=ha&sc_icontent=awssm-7334_tnc&sc_iplace=1up&trk=ha_awssm-7334_tnc)
+### Traning
+* [Free aws traning lessons](https://aws.amazon.com/training/digital/?sc_icampaign=aware_digitaltraining_sitewide_free_global_traincert_100-dl&sc_ichannel=ha&sc_icontent=awssm-7334_tnc&sc_iplace=1up&trk=ha_awssm-7334_tnc)
 
- # SDK´s 
- * [CDK](https://aws.amazon.com/cdk/) - the Cloud Development Kit
+### SDK´s 
+* [CDK](https://aws.amazon.com/cdk/) - the Cloud Development Kit
 
- # Artificial Intelligence Services
+### Artificial Intelligence Services
 AWS offers a broad selection of AI services that offer finished AI solutions for you to use in your applications & workloads:
 
 * [Amazon Rekognition:](https://aws.amazon.com/rekognition) Analyze images and videos and extract meaning and content from such media 
