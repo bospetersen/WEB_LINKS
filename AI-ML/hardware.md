@@ -1,4 +1,4 @@
-# Coral Dev Board
+## Coral Dev Board
 [Google begins selling the $150 Coral Dev Board, a hardware kit for accelerated AI edge computing](https://venturebeat.com/ai/google-begins-selling-the-150-coral-dev-board-a-hardware-kit-for-accelerated-ai-edge-computing/)
 
 ## Coral Dev Board 1GB / 4GB
@@ -17,7 +17,7 @@
 [Google Coral Dev Board (1GB/4GB) - DE](https://buyzero.de/collections/google-aiy-coral/products/google-coral-dev-board-4gb?variant=43630699184395)
 
 
-# Raspbary Pi
+## Raspbary Pi
 [Raspberry Pi AI Projects & Using a Raspberry Pi AI Accelerator](https://www.arrow.com/en/research-and-events/articles/using-a-raspberry-pi-ai-accelerator)
 
 ## Other

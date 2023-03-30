@@ -23,8 +23,8 @@
 * [statsmodels.org](https://www.statsmodels.org/stable/index.html)
 * [imbalanced-learn.org](https://imbalanced-learn.org/stable/)
 
-# Visualization
-# * [App development - streamlit.io](https://streamlit.io/)
+## Visualization 
+* [App development - **streamlit.io**](https://streamlit.io/)
 * [matplotlib.org](https://matplotlib.org/)
   * [matplotlib.org/stable/api/index](https://matplotlib.org/stable/api/index)
 * [seaborn: Statistical Data Visualization - pydata.org](https://seaborn.pydata.org/)
@@ -69,7 +69,7 @@
 * [https://ml-playground.com/](https://ml-playground.com/#)
 
 
-# Types of ML-data
+## Types of ML-data
 * Supervised learning.
   * **Feature vector** (Input data).
     * Qualitative - Categorical data (finite number og categories or groups).
@@ -85,7 +85,7 @@
 * Unsupervised learning.
 * Reinforcement learning.
 
-# Machine learning models
+## Machine learning models
 * Loss functions
   * L1 function
   * L2 function
@@ -101,7 +101,7 @@
       * RELU
 * Recurrent neural networks (RNN)
   * GRU´s and LSTM´s
-# [Youtube: Python TensorFlow for Machine Learning – Neural Network Text Classification Tutorial](https://www.youtube.com/watch?v=VtRLrQ3Ev-U&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1)
+### [Youtube: Python TensorFlow for Machine Learning – Neural Network Text Classification Tutorial](https://www.youtube.com/watch?v=VtRLrQ3Ev-U&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1)
 ⌨️ (0:07:48) What is machine learning?
 ⌨️ (0:14:00) Features (inputs)
 ⌨️ (0:20:22) Outputs (predictions)
@@ -112,7 +112,7 @@
 ...
 ⌨️ (1:21:15) Recurrent neural networks
 
-# fast.ai—Making neural nets uncool again
+### fast.ai—Making neural nets uncool again
 * Corporate partner program: Get help with fast.ai technologies & courses from the [partner program](https://www.fast.ai/partners.html)
 * Courses: 
   * [Practical Deep Learning for Coders](https://course.fast.ai/); 
@@ -200,25 +200,26 @@
 [Describing MSE (mean squared error) and RSME (root mean squared error)](https://stackoverflow.com/a/37861832) - Stack Overflow answer
 
 
-# Reading Extension: ROC Curve + AUC
+## Reading Extension: ROC Curve + AUC
 **For more information on these metrics, bookmark the following resources and refer to them when you need:**
 
 * [ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM) by StatQuest
 * [ROC documentation in Scikit-Learn](https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html) (contains code examples)
 * [How the ROC curve and AUC are calculated](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc) by Google's Machine Learning team
 
-### CNN
+## CNN
 * [CNN explainer](https://poloclub.github.io/cnn-explainer/)
 * [Image Kernels](https://setosa.io/ev/image-kernels/)
 * [4—Collaborative filtering, embeddings, and more](https://course17.fast.ai/lessons/lesson4.html)
 * [cs231n - Convolutional Networks/](https://cs231n.github.io/convolutional-networks/)
-#### Data Augmentation
+
+## Data Augmentation
 * [Data Augmentation](https://www.tensorflow.org/tutorials/images/data_augmentation)
 
 ### RNN
 * [How to Use the TimeseriesGenerator for Time Series Forecasting in Keras](https://machinelearningmastery.com/how-to-use-the-timeseriesgenerator-for-time-series-forecasting-in-keras/)
 
-# Mathematics for Machine Learning
+## Mathematics for Machine Learning
 Github: [Mathematics for Machine Learning](https://github.com/dair-ai/Mathematics-for-ML.git) - A collection of resources to learn and review mathematics for machine learning.
 
 ### 📖 Books
@@ -256,12 +257,12 @@ Github: [Mathematics for Machine Learning](https://github.com/dair-ai/Mathematic
 * Course: [Calculus](https://www.khanacademy.org/math/linear-algebra)
 * Course: [https://www.khanacademy.org/math/calculus-home](https://www.khanacademy.org/math/calculus-home)
 
-# Feature Scaling
+## Feature Scaling
 * [Feature Scaling](https://medium.com/@rahul77349/feature-scaling-why-it-is-required-8a93df1af310) - why is it required? by Rahul Saini
 * [Feature Scaling with Scikit-Learn](https://benalexkeen.com/feature-scaling-with-scikit-learn/) by Ben Alex Keen
 * [Feature Scaling for Machine Learning](https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/) Understanding the Difference Between Normalization vs. Standardization by Aniruddha Bhandari 
 
-# Youtube
+## Youtube
 * [(Non-technical) How Machines Learn](https://www.youtube.com/watch?v=R9OHn5ZF4Uo) - by GCP Grey
 * [(Technical) Deep Learning series](https://www.youtube.com/watch?v=aircAruvnKk) - by 3Blue1Brown
 * [PyTorch at Tesla](https://www.youtube.com/watch?v=oBklltKXtDE&t=173s) - Andrej Karpathy, Tesla
@@ -269,9 +270,9 @@ Github: [Mathematics for Machine Learning](https://github.com/dair-ai/Mathematic
 * [youtube.com/@Deeplearningai](https://www.youtube.com/@Deeplearningai)
 
 
-# Tools
+## Tools
 * [ml-playground.com](https://ml-playground.com/#)
 
-# Blogs
+## Blogs
 * [Transforming Model Training Workflows at Wayfair](https://www.aboutwayfair.com/careers/tech-blog/transforming-model-training-workflows-at-wayfair)
 
