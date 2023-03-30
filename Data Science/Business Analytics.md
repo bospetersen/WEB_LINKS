@@ -237,7 +237,7 @@
   They are also used in hypothesis testing and regression analysis.
   * Statisticians often use p-values in conjunction with confidence intervals to gauge statistical significance.
   * They are most often constructed using confidence levels of 95% or 99%.
-  ### * * **Confidence interval** and **confidence level** are interrelated but are not exactly the same.*
+    ### **Confidence interval** and **confidence level** are interrelated but are not exactly the same.
 
 ## T-test
 [What Is a T-Test?](https://www.investopedia.com/terms/c/confidenceinterval.asp)
