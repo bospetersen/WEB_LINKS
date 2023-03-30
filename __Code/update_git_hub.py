@@ -6,7 +6,7 @@ today =format(time.strftime("%Y/%m/%d %H:%M:%S"))
 print(today)
 
 os.system(f'cd {os.path.dirname(__file__)}../')
-print('-------------------------------------------------------------------------------')
+
 os.system(f'git add . ')
 print('-------------------------------------------------------------------------------')
 os.system(f'git commit -m"Updated files: {today}"')
