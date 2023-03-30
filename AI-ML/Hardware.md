@@ -1,3 +1,4 @@
+# TPU
 ## Coral Dev Board
 [Google begins selling the $150 Coral Dev Board, a hardware kit for accelerated AI edge computing](https://venturebeat.com/ai/google-begins-selling-the-150-coral-dev-board-a-hardware-kit-for-accelerated-ai-edge-computing/)
 
@@ -22,3 +23,12 @@
 
 ## Other
 [Computing platforms for neural networks](https://www.arrow.com/en/research-and-events/articles/computing-platforms-for-neural-networks)
+
+## OpenMV
+* Hardware
+  [OpenMV Cam H7](https://openmv.io/products/openmv-cam-h7) or [OpenMV Cam H7 R2](https://openmv.io/collections/products/products/openmv-cam-h7-r2) board
+  MicroSD card with at least 2 MB of storage space
+  USB micro cable
+
+## ARM
+* [arm.com](https://www.arm.com/)
