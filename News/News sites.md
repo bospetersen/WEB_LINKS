@@ -1,1 +1,2 @@
-[ground.news](https://ground.news/)
+# News sites
+* [ground.news](https://ground.news/)
