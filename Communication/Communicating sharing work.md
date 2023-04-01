@@ -23,5 +23,6 @@ team not only teach amazing artificial intelligence and other technical skills, 
 [Devblog by Hasnode](https://hashnode.com/devblog) 
 – Your own blog, your own domain, readers ready to go, you own your content (automatic backups on GitHub), all ready to go. Start writing.
 
-[Devblog: How to Launch Your Own Developer Blog on Your Own Domain in Minutes](https://www.freecodecamp.org/news/devblog-launch-your-developer-blog-own-domain/) - A great tutorial from Quincy Larson on how to launch your own free blog with Devblog (the resource linked above).
+[Devblog: How to Launch Your Own Developer Blog on Your Own Domain in Minutes](https://www.freecodecamp.org/news/devblog-launch-your-developer-blog-own-domain/) 
+- A great tutorial from Quincy Larson on how to launch your own free blog with Devblog (the resource linked above).
 
