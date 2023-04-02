@@ -6,7 +6,7 @@
 **Accuracy** - The accuracy of the model in decimal form. Perfect accuracy is equal to 1.0.
 
 [Precision](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html#sklearn.metrics.precision_score) 
-- Indicates the proportion of positive identifications (model predicted class 1) which were actually correct. A model which produces no false positives has a precision of 1.0.
+Indicates the proportion of positive identifications (model predicted class 1) which were actually correct. A model which produces no false positives has a precision of 1.0.
 
 [Recall](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html#sklearn.metrics.recall_score) 
 - Indicates the proportion of actual positives which were correctly classified. A model which produces no false negatives has a recall of 1.0.
@@ -30,7 +30,7 @@ is a plot of true positive rate versus false-positive rate.
 [Area Under Curve (AUC) Score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html) 
 - The area underneath the ROC curve. A perfect model achieves an AUC score of 1.0.
 
-## Regression Model Evaluation Metrics/Techniques
+### Regression Model Evaluation Metrics/Techniques
 [R^2 (pronounced r-squared) or the coefficient of determination](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html) 
 - Compares your model's predictions to the mean of the targets. Values can range from negative infinity (a very poor model) to 1. For example, if all your model does is predict the mean of the targets, its R^2 value would be 0. And if your model perfectly predicts a range of numbers it's R^2 value would be 1.
 
