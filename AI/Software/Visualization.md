@@ -23,6 +23,9 @@
   * [Microscopium](https://github.com/microscopium/microscopium) - Discover new gene or drug functions by exploring large image datasets.
 * [vispy.org](https://vispy.org/)
 * [pygal.org](https://www.pygal.org/en/stable/)
-* [folium](https://python-visualization.github.io/folium/) -  easy visualizing data that’s been manipulated in Python on an interactive leaflet map.
 * [networkx.org](https://networkx.org/) - Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
 * [graphviz.org - neural-network](https://graphviz.org/Gallery/directed/neural-network.html)
+
+#### Folium
+* [folium](https://python-visualization.github.io/folium/)
+``folium`` builds on the data wrangling strengths of the Python ecosystem and the mapping strengths of the ``leaflet.js`` library. Manipulate your data in Python, then visualize it in on a Leaflet map via folium.
