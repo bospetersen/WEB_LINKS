@@ -47,7 +47,8 @@ Generate real-time user-specific suggestions and recommendations
 Forecast business outcomes via machine learning 
 
 #### MUST READ
-This whitepaper is an excellent source as it summarizes all core concepts & services you must know to pass the [Cloud Practitioner exam](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html) (note: it also covers services you don't need to know - but it does provide brief summaries for all the key services as well).
+This whitepaper is an excellent source as it summarizes all core concepts & services you must know to pass the [Cloud Practitioner exam](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html)
+(note: it also covers services you don't need to know - but it does provide brief summaries for all the key services as well).
 
 Also consider exploring the service overview pages of key AWS services - like the overview page for the [Trusted Advisor service](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/)
 
