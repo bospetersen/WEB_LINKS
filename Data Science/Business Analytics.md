@@ -127,7 +127,8 @@
       * -1 means strong negative relationship
       * 0 means no relationship
   * **Correlation does NOT imply *causation***
-  * #### [spurious-correlations](https://www.wnycstudios.org/podcasts/otm/articles/spurious-correlations), ref: [tylervigen.com](https://www.tylervigen.com/spurious-correlations)
+  * [spurious-correlations](https://www.wnycstudios.org/podcasts/otm/articles/spurious-correlations)
+  * [tylervigen.com](https://www.tylervigen.com/spurious-correlations)
 
 # Hypothesis testing
 ## Dependent variable vs Independenet variable
