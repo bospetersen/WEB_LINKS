@@ -26,7 +26,8 @@
 
 ## OpenMV
 * Hardware
-  [OpenMV Cam H7](https://openmv.io/products/openmv-cam-h7) or [OpenMV Cam H7 R2](https://openmv.io/collections/products/products/openmv-cam-h7-r2) board
+  [OpenMV Cam H7](https://openmv.io/products/openmv-cam-h7) 
+  or [OpenMV Cam H7 R2](https://openmv.io/collections/products/products/openmv-cam-h7-r2) board
   MicroSD card with at least 2 MB of storage space
   USB micro cable
 
