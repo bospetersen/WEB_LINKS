@@ -7,6 +7,21 @@
 
 # Nest.js 
 - Website - [https://nestjs.com](https://nestjs.com/)
+https://www.stewright.me/2021/03/add-basic-auth-to-nestjs-rest-api/
+
+Authentication - API-keys
+https://medium.com/@Dee_Mayoor/apikey-authentication-for-nestjs-using-passport-js-6db467fc31f7
+https://www.stewright.me/2021/03/add-header-api-key-to-nestjs-rest-api/
+https://docs.nestjs.com/security/authentication
+
+https://auth0.com/blog/developing-a-secure-api-with-nestjs-getting-started/
+
+https://blog.restcase.com/5-basic-rest-api-design-guidelines/
+
+File upload
+https://progressivecoder.com/a-detailed-guide-to-nestjs-file-upload/
+https://notiz.dev/blog/type-safe-file-uploads
+
 
 ## .env-files
 [https://www.makeuseof.com/nestjs-config-module-manage-environment-variables/](https://www.makeuseof.com/nestjs-config-module-manage-environment-variables/)

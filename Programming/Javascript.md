@@ -8,3 +8,7 @@
 
 ## Tutorials
 [masteringjs.io](https://masteringjs.io/tutorials/mongoose/query-was-already-executed)
+
+
+# Import/Export javascript 
+https://www.codingem.com/export-multiple-functions-in-javascript/

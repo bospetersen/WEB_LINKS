@@ -13,3 +13,9 @@
 
 
 ## 
+
+https://www.passportjs.org/
+https://github.com/cholalabs/passport-localapikey
+http://www.passportjs.org/packages/passport-headerapikey/
+
+https://www.uuidgenerator.net/
