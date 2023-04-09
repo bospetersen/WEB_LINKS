@@ -17,4 +17,5 @@
 * [Rights Expression Language for the media industry](https://www.iptc.org/standards/rightsml/)
   
 * [w3.org - ODRL Community Group](https://www.w3.org/community/odrl/)
-  * [ODRL Information Model 2.2](https://www.w3.org/TR/odrl-model/) - The Open Digital Rights Language (ODRL) is a policy expression language that provides a flexible and interoperable information model, vocabulary, and encoding mechanisms for representing statements about the usage of content and services. 
+  * [ODRL Information Model 2.2](https://www.w3.org/TR/odrl-model/) 
+    - The Open Digital Rights Language (ODRL) is a policy expression language that provides a flexible and interoperable information model, vocabulary, and encoding mechanisms for representing statements about the usage of content and services. 
