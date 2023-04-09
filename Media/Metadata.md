@@ -11,3 +11,11 @@
   * [What Is Photo Metadata?](https://www.iptc.org/standards/photo-metadata/photo-metadata/)
   * [IPTC Photo Metadata Standard](https://www.iptc.org/standards/photo-metadata/iptc-standard/)
   * [Quick guide to IPTC Photo Metadata on Google Images](https://www.iptc.org/standards/photo-metadata/quick-guide-to-iptc-photo-metadata-and-google-images/)
+
+
+## Rights Expression Language
+* [Rights Expression Language for the media industry](https://www.iptc.org/standards/rightsml/)
+  
+* [w3.org - ODRL Community Group](https://www.w3.org/community/odrl/)
+  * [ODRL Information Model 2.2](https://www.w3.org/TR/odrl-model/)
+  The Open Digital Rights Language (ODRL) is a policy expression language that provides a flexible and interoperable information model, vocabulary, and encoding mechanisms for representing statements about the usage of content and services. 
