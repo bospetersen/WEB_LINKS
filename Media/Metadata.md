@@ -15,6 +15,7 @@
 
 ## Rights Expression Language
 * [Rights Expression Language for the media industry](https://www.iptc.org/standards/rightsml/)
+  * [IPTC RightsML Standard 2.0](https://www.iptc.org/std/RightsML/2.0/RightsML_2.0-specification.html)
   
 * [w3.org - ODRL Community Group](https://www.w3.org/community/odrl/)
   * [ODRL Information Model 2.2](https://www.w3.org/TR/odrl-model/) 
