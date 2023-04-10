@@ -3,6 +3,7 @@
 * [keras.io](https://keras.io/api/)
 * [tensorflow.org](https://www.tensorflow.org/api_docs)
   * [tensorflow.org - lite](https://www.tensorflow.org/lite/api_docs)
+  * [tensorflow.org - tensorboard](https://www.tensorflow.org/tensorboard)
 * [pytorch.org](https://pytorch.org/)
   * [pytorch.org/docs](https://pytorch.org/docs/stable/index.html)
   * [pytorch.org/ecosystem](https://pytorch.org/ecosystem/)
@@ -21,3 +22,8 @@
   * [XGBoost Python Package](https://xgboost.readthedocs.io/en/stable/python/index.html)
 * [statsmodels.org](https://www.statsmodels.org/stable/index.html)
 * [imbalanced-learn.org](https://imbalanced-learn.org/stable/)
+* [Apache MXNet: A flexible and efficient library for deep learning.](https://mxnet.apache.org/versions/1.9.1/)
+  * [Apache MXNet: Docs & Tutorials](https://mxnet.apache.org/versions/1.9.1/api)
+* [Caffe - Deep Learning Framework](https://caffe.berkeleyvision.org/)
+
+
