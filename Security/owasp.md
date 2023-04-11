@@ -1,3 +1,4 @@
+## OWASP® Foundation?
 * [OWASP® Foundation?](https://owasp.org/)
   * [OWASP Top Ten - Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/)
 
@@ -236,13 +237,10 @@ More aspects can be found in [ISO/IEC 5338](https://www.iso.org/standard/81118.h
 
 ### How to deal with AI privacy
 #### Further reading:
-
-[ICO guidance on AI and data protection](https://ico.org.uk/for-organisations/guide-to-data-protection/key-dp-themes/guidance-on-ai-and-data-protection/)
-[FPF case-law analysis on automated decision making](https://fpf.org/blog/fpf-report-automated-decision-making-under-the-gdpr-a-comprehensive-case-law-analysis/)
-
-## Further reading
-[NIST AI Risk Management Framework 1.0](https://doi.org/10.6028/NIST.AI.100-1)
-[PLOT4ai threat library](https://plot4.ai/library)
-[ENISA AI security standard discussion](https://www.enisa.europa.eu/publications/cybersecurity-of-ai-and-standardisation)
-[Microsoft/MITRE tooling for ML teams](https://www.mitre.org/news-insights/news-release/microsoft-and-mitre-create-tool-help-security-teams-prepare-attacks?sf175190906=1)
-[MITRE ATLAS framework for AI threats](https://atlas.mitre.org/)
+* [ICO guidance on AI and data protection](https://ico.org.uk/for-organisations/guide-to-data-protection/key-dp-themes/guidance-on-ai-and-data-protection/)
+* [FPF case-law analysis on automated decision making](https://fpf.org/blog/fpf-report-automated-decision-making-under-the-gdpr-a-comprehensive-case-law-analysis/)
+* [NIST AI Risk Management Framework 1.0](https://doi.org/10.6028/NIST.AI.100-1)
+* [PLOT4ai threat library](https://plot4.ai/library)
+* [ENISA AI security standard discussion](https://www.enisa.europa.eu/publications/cybersecurity-of-ai-and-standardisation)
+* [Microsoft/MITRE tooling for ML teams](https://www.mitre.org/news-insights/news-release/microsoft-and-mitre-create-tool-help-security-teams-prepare-attacks?sf175190906=1)
+* [MITRE ATLAS framework for AI threats](https://atlas.mitre.org/)
