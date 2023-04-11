@@ -211,4 +211,38 @@ Do not mitigate SSRF via the use of a deny list or regular expression. Attackers
 * [Awesome Threat Modeling](https://github.com/hysnsec/awesome-threat-modelling)
 
 
+### AI Security and Privacy
+[OWASP AI Security and Privacy Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/#)
 
+For overviews of model attacks, see also 
+* [BIML](https://berryvilleiml.com/taxonomy/), 
+* [ENISA](https://www.enisa.europa.eu/publications/securing-machine-learning-algorithms), 
+* [ETSI SAI Problem statement Section 6](https://www.etsi.org/committee/1640-sai#), 
+* [Microsoft](https://docs.microsoft.com/en-us/security/failure-modes-in-machine-learning), 
+* [NIST](https://csrc.nist.gov/publications/detail/white-paper/2023/03/08/adversarial-machine-learning-taxonomy-and-terminology/draft). 
+
+The main attack types are:
+* Data poisoning attack
+* Input manipulation attack
+* Membership inference attack
+* Model inversion attack
+* Model theft
+* Model supply chain attack
+* AI code reuse
+* AI code maintainability
+* AI supply chain complexity
+
+More aspects can be found in [ISO/IEC 5338](https://www.iso.org/standard/81118.html) and the upcoming ISO/IEC 27090 on AI security and 27091 on AI privacy.
+
+### How to deal with AI privacy
+#### Further reading:
+
+[ICO guidance on AI and data protection](https://ico.org.uk/for-organisations/guide-to-data-protection/key-dp-themes/guidance-on-ai-and-data-protection/)
+[FPF case-law analysis on automated decision making](https://fpf.org/blog/fpf-report-automated-decision-making-under-the-gdpr-a-comprehensive-case-law-analysis/)
+
+## Further reading
+[NIST AI Risk Management Framework 1.0](https://doi.org/10.6028/NIST.AI.100-1)
+[PLOT4ai threat library](https://plot4.ai/library)
+[ENISA AI security standard discussion](https://www.enisa.europa.eu/publications/cybersecurity-of-ai-and-standardisation)
+[Microsoft/MITRE tooling for ML teams](https://www.mitre.org/news-insights/news-release/microsoft-and-mitre-create-tool-help-security-teams-prepare-attacks?sf175190906=1)
+[MITRE ATLAS framework for AI threats](https://atlas.mitre.org/)
