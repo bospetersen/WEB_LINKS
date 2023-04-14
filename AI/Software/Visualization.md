@@ -2,7 +2,7 @@
 ## Visualization 
 
 #### streamlit.io
-* [**streamlit.io**](https://streamlit.io/) Data App development
+* [**streamlit.io**](https://streamlit.io/) Data App Development
 
 #### matplotlib.org
 * [matplotlib.org](https://matplotlib.org/)
