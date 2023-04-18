@@ -22,6 +22,18 @@ https://www.codingem.com/export-multiple-functions-in-javascript/
 [javascript-libraries](https://kinsta.com/blog/javascript-libraries/)
 
 # A
+[Algolia Places](https://community.algolia.com/places/)
+* Algolia Places is a JavaScript library that provides an easy and distributed way of using address auto-completion on your site. It’s a blazingly fast and wonderfully accurate tool that can help increase your site user experience. 
+* Algolia Places leverages the impressive open-source database of OpenStreetMap to cover worldwide places.
+
+[Anime.js](https://community.algolia.com/places/)
+* If you want to add animations to your site or application, Anime.js is one of the best JavaScript libraries you can find. 
+* It was released in 2019 and is lightweight with a powerful yet simple API.
+
+[Animate On Scroll (AOS)](https://michalsnik.github.io/aos/)
+* If you want to add animations to your site or application, Anime.js is one of the best JavaScript libraries you can find. 
+* It was released in 2019 and is lightweight with a powerful yet simple API.
+
 # B
 # C
 # D
