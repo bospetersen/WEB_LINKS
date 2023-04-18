@@ -27,7 +27,7 @@ https://www.codingem.com/export-multiple-functions-in-javascript/
 # D
 
 [D3.js](https://d3js.org/)
-Data-Driven Documents (D3) or D3.js is another famous JS library that developers use to document manipulation based on data.
+* Data-Driven Documents (D3) or D3.js is another famous JS library that developers use to document manipulation based on data.
 
 # E
 # F
@@ -37,14 +37,14 @@ Data-Driven Documents (D3) or D3.js is another famous JS library that developers
 # J
 
 [jQuery](https://jquery.com/)
-jQuery is a classic JavaScript library that’s fast, light-weight, and feature-rich. It was built in 2006 by John Resig at BarCamp NYC. 
-jQuery is free and open-source software with a license from MIT.
+* jQuery is a classic JavaScript library that’s fast, light-weight, and feature-rich. It was built in 2006 by John Resig at BarCamp NYC. 
+* jQuery is free and open-source software with a license from MIT.
 
 # K
 # L
 
 [Lodash](https://lodash.com/)
-Lodash is also a JS utility library that makes it easier to work with numbers, arrays, strings, objects, etc.
+* Lodash is also a JS utility library that makes it easier to work with numbers, arrays, strings, objects, etc.
 
 # M
 # N
@@ -52,20 +52,20 @@ Lodash is also a JS utility library that makes it easier to work with numbers, a
 # P
 
 [p5.js](https://p5js.org/examples/)
-p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else!
+* p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else!
 
 # Q
 # R
 
 [React.js](https://reactjs.org/)
-(also known as ReactJS or React) is an open-source, front-end JavaScript library. 
+* (also known as ReactJS or React) is an open-source, front-end JavaScript library. 
 
 # S
 # T
 # U
 
 [Underscore.js](https://underscorejs.org/)
-Underscore is a JavaScript utility library that provides various functions for typical programming tasks.
+* Underscore is a JavaScript utility library that provides various functions for typical programming tasks.
 
 # V
 # W
