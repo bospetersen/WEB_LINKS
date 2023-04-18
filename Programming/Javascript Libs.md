@@ -5,7 +5,8 @@
 # A
 
 [Algolia Places](https://community.algolia.com/places/)
-* Algolia Places is a JavaScript library that provides an easy and distributed way of using address auto-completion on your site. It’s a blazingly fast and wonderfully accurate tool that can help increase your site user experience. 
+* Algolia Places is a JavaScript library that provides an easy and distributed way of using address auto-completion on your site. 
+* It’s a blazingly fast and wonderfully accurate tool that can help increase your site user experience. 
 * Algolia Places leverages the impressive open-source database of OpenStreetMap to cover worldwide places.
 
 [AngularJS](https://angularjs.org/)
@@ -26,9 +27,15 @@
 
 # B
 
+[Babel](https://babeljs.io/)
+* Babel is an open-source and free JS compiler that you can use to convert new JS features to run an old JS standard. 
+* The plugin is also used for syntax transformation that isn’t supported in an old version. 
+* It provides polyfills to support features missing from certain JS environments.
+
 [Backbone.js](https://backbonejs.org/)
 * The lightweight JS framework Backbone.js was created in 2010 and based on the Model View Presenter (MVP) architecture.
-* It has a RESTful JSON interface and helps you build client-side web applications. It structures web apps with models for custom events and key-value binding, collections with an efficient API, and views using declarative event handling.
+* It has a RESTful JSON interface and helps you build client-side web applications. 
+* It structures web apps with models for custom events and key-value binding, collections with an efficient API, and views using declarative event handling.
 
 [Bideo.js](https://rishabhp.github.io/bideo.js/)
 * Do you want to incorporate full-screen videos into your site’s background? Try Bideo.js.
@@ -43,10 +50,12 @@
 * Is your website or project related to the data analysis field and  you need to present lots of statistics? Chart.js is an excellent JavaScript library to use.
 
 [Choreographer.js](https://christinecha.github.io/choreographer-js/)
-* Use Chreographer.js to animate complex CSS effectively. It can even add more custom functions that you can use for non-CSS animations.
+* Use Chreographer.js to animate complex CSS effectively. 
+* It can even add more custom functions that you can use for non-CSS animations.
 
 [Cleave.js](https://nosir.github.io/cleave.js/)
-* Cleave.js offers an interesting solution if you want to format your text content. Its creation aims to provide an easier way to increase the input field’s readability by formatting the typed data.
+* Cleave.js offers an interesting solution if you want to format your text content. 
+* Its creation aims to provide an easier way to increase the input field’s readability by formatting the typed data.
 
 # D
 
@@ -58,6 +67,10 @@
 [Ember.js](https://emberjs.com/)
 * The open-source JS framework Ember.js is battle-tested and productive to build web applications with rich UIs, capable of working across devices.
 * It was released in 2011 and was named SproutCore 2.0 back then.
+
+[ESLint](https://eslint.org/)
+* Finding bugs and fixing them in your JS code is easy by using ESLint. 
+* It analyses codes statistically to quickly catch syntax errors, command line’s style issues, etc., and fix them automatically.
 
 [ExpressJS](https://expressjs.com/)
 * Express.js is a back-end JS framework for developing web applications. It was released in 2010 under MIT incense as free, open-source software.
@@ -87,6 +100,11 @@
 * Released in 2013, Ionic is an open-source JavaScript framework to build high-quality hybrid mobile apps. 
 * Its latest release allows you to choose any UI framework like Vue.js, Angular, or React. 
 * It uses CSS, Sass, and HTML5 to build applications.
+
+
+[iziModal](https://izimodal.marcelodolza.com/)
+* iziModal is an elegant, lightweight, flexible, and responsive modal plugin that works with jQuery. 
+* It is useful to notify something to your users or ask for information using a popup modal. It is easy to use and comes with many customizations.
 
 # J
 
@@ -153,7 +171,7 @@
 * If yes, Parsley can be useful to you. It is an easy yet powerful JS library that you can use to validate forms.
 
 [Polymer](https://polymer-library.polymer-project.org/)
-The open-source JavaScript library by Google – Polymer is used to build web apps using components.
+* The open-source JavaScript library by Google – Polymer is used to build web apps using components.
 
 [Popper.js](https://popper.js.org/)
 * Popper.js was created to make it easier to position popovers, dropdowns, tooltips, and other contextual elements that appear close to a button or other similar elements.
@@ -167,12 +185,24 @@ The open-source JavaScript library by Google – Polymer is used to build web ap
 # S
 
 [Screenfull.js](https://github.com/sindresorhus/screenfull.js/)
-Use Screenfull.js to add a full-screen element to your project. Due to its impressive cross-browser efficiency, you won’t be in trouble while using this JavaScript library.
+* Use Screenfull.js to add a full-screen element to your project. 
+* Due to its impressive cross-browser efficiency, you won’t be in trouble while using this JavaScript library.
+
+
+[Shave](https://dollarshaveclub.github.io/shave/)
+* Shave is a zero-dependency JS plugin that you can use to truncate text inside HTML elements by setting a maximum height to perfectly fit inside the element. 
+* It also stores some extra original texts inside a hidden element ``<span>``, ensuring you don’t lose those texts.
+
+[Slick](http://kenwheeler.github.io/slick/)
+* Slick is a useful JS tool that takes care of your carousel requirements. 
+* It is responsive and scalable with its container. 
+* Its features include CSS3 support, swipes, mouse dragging, full accessibility, infinite looping, autoplay, lazy loading, and many more.
 
 # T
 
 [Three.js](https://threejs.org/)
-* Three.js can make your 3-D designing delightful. It uses WebGL for rendering scenes on modern browsers. Use other CSS3, CSS2, and SVH renderers if you use IE 10 and below.
+* Three.js can make your 3-D designing delightful. 
+* It uses WebGL for rendering scenes on modern browsers. Use other CSS3, CSS2, and SVH renderers if you use IE 10 and below.
 
 # U
 
@@ -182,7 +212,8 @@ Use Screenfull.js to add a full-screen element to your project. Due to its impre
 # V
 
 [Voca](https://vocajs.com/)
-The idea behind creating Voca is to ease out the pain while working with JavaScript strings. It comes with useful functions that make it easy to manipulate strings like changing case, pad, trim, truncate, and more.
+* The idea behind creating Voca is to ease out the pain while working with JavaScript strings. 
+* It comes with useful functions that make it easy to manipulate strings like changing case, pad, trim, truncate, and more.
 
 [Vue.js](https://kinsta.com/blog/vue-js/)
 * Vue.js was created in 2014 by Evan You while he worked for Google. It is a progressive JavaScript framework to build user interfaces.
@@ -191,7 +222,12 @@ The idea behind creating Voca is to ease out the pain while working with JavaScr
 # W
 
 [Webix](https://webix.com/)
-* The easy-to-use framework of Webix helps you develop rich UIs by using lighter codes. It offers 102 user interface widgets like DataTable, Tree, Spreadsheets, etc., along with feature-rich HTML5/CSS JS controls.
+* The easy-to-use framework of Webix helps you develop rich UIs by using lighter codes. 
+* It offers 102 user interface widgets like DataTable, Tree, Spreadsheets, etc., along with feature-rich HTML5/CSS JS controls.
+
+[Webpack](https://webpack.js.org/)
+* Webpack is a tool to bundle JS modules for modern applications. 
+* You can write the code and use it to bundle your assets reasonably while keeping the code clean.
 
 # X
 # Y
