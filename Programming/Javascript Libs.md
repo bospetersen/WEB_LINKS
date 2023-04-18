@@ -26,6 +26,10 @@
 
 # B
 
+[Backbone.js](https://backbonejs.org/)
+* The lightweight JS framework Backbone.js was created in 2010 and based on the Model View Presenter (MVP) architecture.
+* It has a RESTful JSON interface and helps you build client-side web applications. It structures web apps with models for custom events and key-value binding, collections with an efficient API, and views using declarative event handling.
+
 [Bideo.js](https://rishabhp.github.io/bideo.js/)
 * Do you want to incorporate full-screen videos into your site’s background? Try Bideo.js.
 
@@ -55,6 +59,10 @@
 * The open-source JS framework Ember.js is battle-tested and productive to build web applications with rich UIs, capable of working across devices.
 * It was released in 2011 and was named SproutCore 2.0 back then.
 
+[ExpressJS](https://expressjs.com/)
+* Express.js is a back-end JS framework for developing web applications. It was released in 2010 under MIT incense as free, open-source software.
+* It is a fast and minimalist Node.js web framework that comes with an array of useful features.
+
 # F
 
 [fullPage.js](https://github.com/alvarotrigo/fullPage.js/)
@@ -62,6 +70,9 @@
 * It is simple to use and can also add a landscape slider inside your site sections.
 
 # G
+
+[Gatsby](https://www.gatsbyjs.com/)
+* Gatsby helps you develop fast-performing websites and apps with React. This is a front-end JS framework that is open-source and free. 
 
 [Glimmer](https://glimmerjs.com/)
 * Released in 2017, Glimmer features lightweight and fast UI components. It uses the powerful Ember CLI and can work with EmberJS as a component.
@@ -71,6 +82,12 @@
 
 # H 
 # I
+
+[Ionic](https://ionicframework.com/)
+* Released in 2013, Ionic is an open-source JavaScript framework to build high-quality hybrid mobile apps. 
+* Its latest release allows you to choose any UI framework like Vue.js, Angular, or React. 
+* It uses CSS, Sass, and HTML5 to build applications.
+
 # J
 
 [jQuery](https://jquery.com/)
@@ -88,8 +105,19 @@
 * Lodash is also a JS utility library that makes it easier to work with numbers, arrays, strings, objects, etc.
 
 # M
+
 [Masonry](https://masonry.desandro.com/)
-Masonry is an awesome JS grid layout library. This library helps you place your grid elements in suitable positions based on how much vertical space is available. 
+* Masonry is an awesome JS grid layout library. This library helps you place your grid elements in suitable positions based on how much vertical space is available. 
+
+[Meteor.js](https://www.meteor.com/)
+* Meteor is an open-source JS framework released in 2012. It allows you to build full-stack apps seamlessly for mobile, desktop, and web.
+
+[MithrilJS](https://mithril.js.org/)
+* Although not as popular as some of the other items in this list, Mithril is an advanced client-side JS framework to develop client-side applications. It is lightweight — less than 10kb gzip — but fast and offers XHR and routing utilities.
+
+[Mocha](https://mochajs.org/)
+* Every application needs to be tested before you deploy it. This is what Mocha or Mocha.js does for you.
+* It is a feature-rich open-source JS test framework that runs on Node.js as well as in a browser.
 
 [Moment.js](https://momentjs.com/)
 * Moment.js helps you manage time and date effectively when working with different time zones, API calls, local languages, etc.
@@ -101,6 +129,14 @@ Masonry is an awesome JS grid layout library. This library helps you place your 
 
 
 # N
+
+[Next.js](https://nextjs.org/)
+* The Open source platform of Next.js offers a React front-end JavaScript framework. Released in 2016, it allows you to enable functionalities like creating static sites and server-side rendering.
+
+[Node.js](https://nodejs.org/en/)
+* Node.js is a server-side, open-source JavaScript framework built on Chrome’s JS V8 Engine, created in 2009. It is a runtime environment that executes JS codes outside a browser.
+* Node.js is designed to help you develop scalable, fast, and reliable network-based server-side applications.
+
 # O
 
 [Omniscient](http://omniscientjs.github.io/)
@@ -153,6 +189,10 @@ The idea behind creating Voca is to ease out the pain while working with JavaScr
 * Vue.js is incrementally adoptable from its core and can scale between a framework and library easily based on various use cases.
 
 # W
+
+[Webix](https://webix.com/)
+* The easy-to-use framework of Webix helps you develop rich UIs by using lighter codes. It offers 102 user interface widgets like DataTable, Tree, Spreadsheets, etc., along with feature-rich HTML5/CSS JS controls.
+
 # X
 # Y
 # Z
