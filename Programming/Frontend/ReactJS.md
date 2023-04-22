@@ -6,4 +6,5 @@
 
 ## React.js and D3.js
 * [Getting started with D3.js and React](https://blog.logrocket.com/getting-started-d3-js-react/)
+  * [Data visualization in React using React D3](https://www.youtube.com/watch?v=YKDIsXA4OAc)
 * [Using D3.js with React.js:](https://blog.griddynamics.com/using-d3-js-with-react-js-an-8-step-comprehensive-manual/) An 8-step comprehensive manual
