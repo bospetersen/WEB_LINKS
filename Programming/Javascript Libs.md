@@ -1,6 +1,7 @@
 
 # JS-Libs
 [javascript-libraries](https://kinsta.com/blog/javascript-libraries/)
+[JS lib database](https://www.javascripting.com/)
 
 # A
 
@@ -94,6 +95,7 @@
 * Granim.js is a JS library that helps you create fluid and interactive gradient animations. This way, you can make your site stand out with colorful backgrounds.
 
 # H 
+
 # I
 
 [Ionic](https://ionicframework.com/)
@@ -113,6 +115,7 @@
 * jQuery is free and open-source software with a license from MIT.
 
 # K
+
 # L
 
 [Leaflet](https://leafletjs.com/)
@@ -145,7 +148,6 @@
 * Multiple.js enables background image sharing across various elements by using CSS or HTML with no JavaScript coordinate processing.
 * As a result, it creates a stunning visual effect to increase more user interaction.
 
-
 # N
 
 [Next.js](https://nextjs.org/)
@@ -176,7 +178,11 @@
 [Popper.js](https://popper.js.org/)
 * Popper.js was created to make it easier to position popovers, dropdowns, tooltips, and other contextual elements that appear close to a button or other similar elements.
 
+[Prism](https://github.com/salsita/prism)
+* React / Redux action composition made simple
+
 # Q
+
 # R
 
 [React.js](https://reactjs.org/)
@@ -187,7 +193,6 @@
 [Screenfull.js](https://github.com/sindresorhus/screenfull.js/)
 * Use Screenfull.js to add a full-screen element to your project. 
 * Due to its impressive cross-browser efficiency, you won’t be in trouble while using this JavaScript library.
-
 
 [Shave](https://dollarshaveclub.github.io/shave/)
 * Shave is a zero-dependency JS plugin that you can use to truncate text inside HTML elements by setting a maximum height to perfectly fit inside the element. 
@@ -230,7 +235,9 @@
 * You can write the code and use it to bundle your assets reasonably while keeping the code clean.
 
 # X
+
 # Y
+
 # Z
 
 
