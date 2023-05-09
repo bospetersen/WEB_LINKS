@@ -18,7 +18,11 @@
 * [Information Is Beautiful Awards](https://www.informationisbeautifulawards.com/)
 * [the-best-data-visualization-in-2018](https://qz.com/1513260/the-best-data-visualization-in-2018-according-to-data-visualization-experts)
 * [Graphic detail - The Econimist](https://www.economist.com/graphic-detail)
+* [Our World In Data ](https://ourworldindata.org/)
 
 ### Build sites
 * [blockbuilder.org](http://blockbuilder.org/)
 * [observablehq.com](https://observablehq.com/)
+
+### People
+[John Burn-Murdoch -  Chief data reporter ](https://www.ft.com/john-burn-murdoch)
