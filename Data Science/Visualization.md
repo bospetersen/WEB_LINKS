@@ -25,4 +25,7 @@
 * [observablehq.com](https://observablehq.com/)
 
 ### People
-[John Burn-Murdoch -  Chief data reporter ](https://www.ft.com/john-burn-murdoch)
+* [John Burn-Murdoch -  Chief data reporter ](https://www.ft.com/john-burn-murdoch)
+
+### Tutorials
+* [React & D3.js - Tutorial](https://2019.wattenberger.com/blog/react-and-d3)
