@@ -22,3 +22,5 @@
 
 ## Hooks
 * [React Hook Form](https://react-hook-form.com/) --Performant, flexible and extensible forms with easy-to-use validation
+
+* [How to fetch data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
