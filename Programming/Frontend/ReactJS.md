@@ -27,3 +27,4 @@
 
 ## Dynamically loading of components
 * [React — Loading Components Dynamically](https://itnext.io/react-loading-components-dynamically-a9d8549844c4)
+* [Dynamic Components in React](https://dev.to/ayo_tech/how-to-use-components-dynamically-in-react-2gmk)
