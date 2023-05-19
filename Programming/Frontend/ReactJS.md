@@ -28,3 +28,9 @@
 ## Dynamically loading of components
 * [React — Loading Components Dynamically](https://itnext.io/react-loading-components-dynamically-a9d8549844c4)
 * [Dynamic Components in React](https://dev.to/ayo_tech/how-to-use-components-dynamically-in-react-2gmk)
+
+## React.js and JSON
+* [How to create a React component dynamically with JSON](https://www.skillthrive.com/posts/react-component-json)
+
+
+* [How to Add Active Class in Map Items in React Js](https://www.positronx.io/how-to-add-active-class-in-map-items-in-react-js/)
