@@ -34,3 +34,6 @@
 
 
 * [How to Add Active Class in Map Items in React Js](https://www.positronx.io/how-to-add-active-class-in-map-items-in-react-js/)
+
+## React bootstrap - Modal
+* [Rendering a React Modal from Another Component](https://dev.to/jrrohrer/rendering-a-react-modal-from-another-component-2omn)
