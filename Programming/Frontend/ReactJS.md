@@ -37,3 +37,7 @@
 
 ## React bootstrap - Modal
 * [Rendering a React Modal from Another Component](https://dev.to/jrrohrer/rendering-a-react-modal-from-another-component-2omn)
+
+
+## SVG and React.js
+[How to use SVGs in React](https://blog.logrocket.com/how-to-use-svgs-react/)
