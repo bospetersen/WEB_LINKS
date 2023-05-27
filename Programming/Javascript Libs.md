@@ -206,6 +206,9 @@
 * It is responsive and scalable with its container. 
 * Its features include CSS3 support, swipes, mouse dragging, full accessibility, infinite looping, autoplay, lazy loading, and many more.
 
+[SVGR](https://react-svgr.com/)
+* Transform SVGs into React components
+* A complete tool box to take advantage of using SVGs in your React applications.
 # T
 
 [Three.js](https://threejs.org/)
