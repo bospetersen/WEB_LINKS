@@ -43,3 +43,4 @@
 * [How to use SVGs in React](https://blog.logrocket.com/how-to-use-svgs-react/)
 * [react-svgr.com - Transform SVGs into React components](https://react-svgr.com/)
 * [How to import SVGs into your Next.js apps](https://blog.logrocket.com/import-svgs-next-js-apps/)
+* [Building SVG Components in React](https://pganalyze.com/blog/building-svg-components-in-react)
