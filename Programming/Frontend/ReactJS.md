@@ -45,3 +45,7 @@
 * [react-svgr.com - Transform SVGs into React components](https://react-svgr.com/)
 * [How to import SVGs into your Next.js apps](https://blog.logrocket.com/import-svgs-next-js-apps/)
 * [Building SVG Components in React](https://pganalyze.com/blog/building-svg-components-in-react)
+
+
+### Generate tables
+* [Multi-dimensional array data in React](https://www.letsreact.org/multi-dimensional-array-data-in-react/)
