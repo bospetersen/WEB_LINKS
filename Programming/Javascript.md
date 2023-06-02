@@ -14,6 +14,8 @@
 * ['↪&nbsp;Learn']('https://www.javascript.com/learn/strings')
 * ['↪&nbsp;Resources']('https://www.javascript.com/resources')
 
+*[How to Create and Save text file in JavaScript?](https://www.tutorialspoint.com/how-to-create-and-save-text-file-in-javascript)
+
 ### Import/Export javascript 
 https://www.codingem.com/export-multiple-functions-in-javascript/
 
