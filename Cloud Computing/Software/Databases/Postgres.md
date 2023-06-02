@@ -1,0 +1,1 @@
+* [43.10. Trigger Functions](https://www.postgresql.org/docs/current/plpgsql-trigger.html)
