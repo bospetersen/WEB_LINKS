@@ -14,7 +14,12 @@
 * ['↪&nbsp;Learn']('https://www.javascript.com/learn/strings')
 * ['↪&nbsp;Resources']('https://www.javascript.com/resources')
 
-*[How to Create and Save text file in JavaScript?](https://www.tutorialspoint.com/how-to-create-and-save-text-file-in-javascript)
+## Generate textfiles
+* [How to Create and Save text file in JavaScript?](https://www.tutorialspoint.com/how-to-create-and-save-text-file-in-javascript)
+* [How to generate text file width Javascript](https://redstapler.co/generate-text-file-javascript/)
+  * [FileSaver.js](https://github.com/eligrey/FileSaver.js)
+  * [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - If you need to save really large files bigger than the blob's size limitation or don't have enough RAM, then have a look at the more advanced StreamSaver.js 
+
 
 ### Import/Export javascript 
 https://www.codingem.com/export-multiple-functions-in-javascript/
