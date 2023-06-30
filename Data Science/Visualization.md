@@ -1,5 +1,8 @@
+
 # Visualization
-* [Graphviz](https://graphviz.gitlab.io/gallery/)
+* [Tell a Meaningful Story With Data](https://www.thinkwithgoogle.com/marketing-strategies/data-and-measurement/tell-meaningful-stories-with-data/)
+  * [Are Pop Lyrics Getting More Repetitive?](https://pudding.cool/2017/05/song-repetition/)
+* [Graphviz](https://graphviz.gitlab.io/gallery/) 
 
 ### D3
 * [D3 Graph Gallery](https://d3-graph-gallery.com/barplot.html)

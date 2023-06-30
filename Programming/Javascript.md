@@ -26,3 +26,8 @@ https://www.codingem.com/export-multiple-functions-in-javascript/
 
 ## Element
 * [Element: classList property](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
+
+
+### Finding dimensions of html element
+* [Understanding offsetWidth, clientWidth, scrollWidth and -Height, respectively](https://stackoverflow.com/questions/21064101/understanding-offsetwidth-clientwidth-scrollwidth-and-height-respectively)
+* [Element: clientWidth property](https://developer.mozilla.org/en-US/docs/Web/API/Element/clientWidth)
