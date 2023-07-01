@@ -4,6 +4,9 @@
 * [React Query](https://rapidapi.com/guides/call-apis-react-query) - How to fetch data from APIs using React Query?
 * [Axios](https://rapidapi.com/guides/axios-react-complete-guide) - How to Use Axios in React — Complete Guide
 
+## Caching
+* [Options for optimizing caching in React](https://blog.logrocket.com/options-caching-react/)
+
 ## React.js and D3.js
 * [Getting started with D3.js and React](https://blog.logrocket.com/getting-started-d3-js-react/)
   * [Data visualization in React using React D3](https://www.youtube.com/watch?v=YKDIsXA4OAc)
