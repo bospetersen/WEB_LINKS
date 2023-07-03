@@ -7,6 +7,9 @@
 ## Caching
 * [Options for optimizing caching in React](https://blog.logrocket.com/options-caching-react/)
 
+## Errors
+*[React — Uncaught TypeError: destroy is not a function](https://medium.com/geekculture/react-uncaught-typeerror-destroy-is-not-a-function-192738a6e79b)
+
 ## React.js and D3.js
 * [Getting started with D3.js and React](https://blog.logrocket.com/getting-started-d3-js-react/)
   * [Data visualization in React using React D3](https://www.youtube.com/watch?v=YKDIsXA4OAc)
