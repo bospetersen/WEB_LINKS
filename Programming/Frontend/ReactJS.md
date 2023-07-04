@@ -6,6 +6,7 @@
 
 ## Caching
 * [Options for optimizing caching in React](https://blog.logrocket.com/options-caching-react/)
+* [Exploring Caching Techniques in React](https://betterprogramming.pub/exploring-caching-techniques-in-react-d30bbb78d54d)
 
 ## Errors
 *[React — Uncaught TypeError: destroy is not a function](https://medium.com/geekculture/react-uncaught-typeerror-destroy-is-not-a-function-192738a6e79b)
