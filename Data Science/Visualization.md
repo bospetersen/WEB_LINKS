@@ -7,6 +7,7 @@
 ### D3
 * [D3 Graph Gallery](https://d3-graph-gallery.com/barplot.html)
 * [datavis-2020](https://datavis.tech/datavis-2020/)
+* [Learn D3.js from the ground up](https://www.d3indepth.com/)
 
 ### Youtube
 * [Visualization Analysis and Design, 2021, All Lectures](https://www.youtube.com/playlist?list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk)
