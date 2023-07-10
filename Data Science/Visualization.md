@@ -9,6 +9,9 @@
 * [datavis-2020](https://datavis.tech/datavis-2020/)
 * [Learn D3.js from the ground up](https://www.d3indepth.com/)
 
+### D3.js libs
+* [observablehq - Github](https://github.com/observablehq)
+* [Observable - Plot](https://github.com/observablehq/plot)
 ### Youtube
 * [Visualization Analysis and Design, 2021, All Lectures](https://www.youtube.com/playlist?list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk)
 
