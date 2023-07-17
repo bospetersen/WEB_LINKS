@@ -1,6 +1,6 @@
 # TPU
 ## Coral Dev Board
-[Google begins selling the $150 Coral Dev Board, a hardware kit for accelerated AI edge computing](https://venturebeat.com/ai/google-begins-selling-the-150-coral-dev-board-a-hardware-kit-for-accelerated-ai-edge-computing/)
+[Google begins selling the $150 Coral Dev Board, a  kit for accelerated AI edge computing](https://venturebeat.com/ai/google-begins-selling-the-150-coral-dev-board-a--kit-for-accelerated-ai-edge-computing/)
 
 ## Coral Dev Board 1GB / 4GB
 * [www.arrow.com](https://www.arrow.com/en/products/g950-06210-01/google-corporation)
@@ -25,7 +25,7 @@
 [Computing platforms for neural networks](https://www.arrow.com/en/research-and-events/articles/computing-platforms-for-neural-networks)
 
 ## OpenMV
-* Hardware
+* 
   [OpenMV Cam H7](https://openmv.io/products/openmv-cam-h7) 
   or [OpenMV Cam H7 R2](https://openmv.io/collections/products/products/openmv-cam-h7-r2) board
   MicroSD card with at least 2 MB of storage space
@@ -33,3 +33,9 @@
 
 ## ARM
 * [arm.com](https://www.arm.com/)
+
+## AIY Maker Kit
+* [AIY Maker Kit (includes Raspberry Pi + Coral USB Accelerator)](https://buyzero.de/products/aiy-maker-kit-includes-raspberry-pi-coral-usb-accelerator?_pos=1&_sid=c96533e57&_ss=r)
+  * [Maker Kit](https://aiyprojects.withgoogle.com/maker/)
+  * [References / Instructions](http://g.co/aiy/maker)
+* [AIY Maker Kit - Build your own AI on the Raspberry Pi 4](https://youtu.be/obPd6Tf6lac)
