@@ -150,8 +150,8 @@
 
 # N
 
-[Next.js](https://nextjs.org/)
-* The Open source platform of Next.js offers a React front-end JavaScript framework. Released in 2016, it allows you to enable functionalities like creating static sites and server-side rendering.
+[.js](https://js.org/)
+* The Open source platform of .js offers a React front-end JavaScript framework. Released in 2016, it allows you to enable functionalities like creating static sites and server-side rendering.
 
 [Node.js](https://nodejs.org/en/)
 * Node.js is a server-side, open-source JavaScript framework built on Chrome’s JS V8 Engine, created in 2009. It is a runtime environment that executes JS codes outside a browser.
