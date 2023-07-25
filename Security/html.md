@@ -1,1 +1,1 @@
-* [SecurityElement.Escape(String) Method](https://learn.microsoft.com/en-us/dotnet/api/system.security.securityelement.escape?redirectedfrom=MSDN&view=net-7.0#System_Security_SecurityElement_Escape_System_String_)
+* [Element.Escape(String) Method](https://learn.microsoft.com/en-us/dotnet/api/system..element.escape?redirectedfrom=MSDN&view=net-7.0#System__Element_Escape_System_String_)
