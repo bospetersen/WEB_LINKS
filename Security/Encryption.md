@@ -12,3 +12,7 @@
 * [json-file-encrypt](https://www.npmjs.com/package/json-file-encrypt)
 * [JEF - JSON Encryption Format](https://cyberphone.github.io/doc/security/jef.html)
 
+### Web Encryption
+* [Web Crypto API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)
+* [W3C - Web Cryptography API](https://w3c.github.io/webcrypto/#crypto-interface)
+  * [Crypto101 - Introductory course on cryptography](https://www.crypto101.io/)
