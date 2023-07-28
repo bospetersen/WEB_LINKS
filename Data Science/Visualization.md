@@ -1,5 +1,5 @@
 
-# Visualization
+# 
 * [Tell a Meaningful Story With Data](https://www.thinkwithgoogle.com/marketing-strategies/data-and-measurement/tell-meaningful-stories-with-data/)
   * [Are Pop Lyrics Getting More Repetitive?](https://pudding.cool/2017/05/song-repetition/)
 * [Graphviz](https://graphviz.gitlab.io/gallery/) 
@@ -13,9 +13,9 @@
 * [observablehq - Github](https://github.com/observablehq)
 * [Observable - Plot](https://github.com/observablehq/plot)
 ### Youtube
-* [Visualization Analysis and Design, 2021, All Lectures](https://www.youtube.com/playlist?list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk)
+* [ Analysis and Design, 2021, All Lectures](https://www.youtube.com/playlist?list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk)
 
-### Graphic Visualization Sites
+### Graphic  Sites
 * [Reuters Graphics](https://www.reuters.com/graphics/)
 * [TheUpShot](https://www.nytimes.com/international/section/upshot)
 * [The Pudding](https://pudding.cool/)
@@ -23,7 +23,7 @@
 * [Flowing data](https://flowingdata.com/)
 * [DataIsBeautiful - Reddit](https://www.reddit.com/r/dataisbeautiful/)
 * [Information Is Beautiful Awards](https://www.informationisbeautifulawards.com/)
-* [the-best-data-visualization-in-2018](https://qz.com/1513260/the-best-data-visualization-in-2018-according-to-data-visualization-experts)
+* [the-best-data--in-2018](https://qz.com/1513260/the-best-data--in-2018-according-to-data--experts)
 * [Graphic detail - The Econimist](https://www.economist.com/graphic-detail)
 * [Our World In Data ](https://ourworldindata.org/)
 
