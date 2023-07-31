@@ -197,7 +197,13 @@ Do not mitigate SSRF via the use of a deny list or regular expression. Attackers
 * For frontends with dedicated and manageable user groups use network encryption (e.g. VPNs) on independent systems to consider very high protection needs
 
 
-
+## OWASP Cheatsheet Series
+* [Cheatsheet Series](https://cheatsheetseries.owasp.org/index.html)
+  * [Secure Product Design Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Secure_Product_Design_Cheat_Sheet.html#secure-product-design-cheat-sheet)
+  * [Infrastructure as Code Security Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Infrastructure_as_Code_Security_Cheat_Sheet.html)
+    
+  * [Secrets Management Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html)
+  * [Multi-Factor Authentication Cheat Sheet¶](https://cheatsheetseries.owasp.org/cheatsheets/Multifactor_Authentication_Cheat_Sheet)
 
 ## OWASP SAMM
 * [OWASP SAMM - Software Assurance Maturity Model.](https://owaspsamm.org/)
