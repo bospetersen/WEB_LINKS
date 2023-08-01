@@ -5,3 +5,6 @@
 * [Isomorphic Authorization JavaScript library](https://casl.js.org/v5/en/)
 ### Services
 * [PortSwigger](https://portswigger.net/) - Software and expertise for everyone who needs to secure the web
+
+### W3C
+* [Web Authentication: An API for accessing Public Key Credentials. Level 2](https://www.w3.org/TR/webauthn/#sctn-usecase-authentication)

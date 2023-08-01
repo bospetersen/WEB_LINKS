@@ -9,6 +9,8 @@
 - Website - [https://nestjs.com](https://nestjs.com/)
 https://www.stewright.me/2021/03/add-basic-auth-to-nestjs-rest-api/
 
+[Encryption and Hashing](https://docs.nestjs.com/security/encryption-and-hashing)
+
 Authentication - API-keys
 https://medium.com/@Dee_Mayoor/apikey-authentication-for-nestjs-using-passport-js-6db467fc31f7
 https://www.stewright.me/2021/03/add-header-api-key-to-nestjs-rest-api/
