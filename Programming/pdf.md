@@ -1,3 +1,6 @@
 * [pdf.js](https://mozilla.github.io/pdf.js/)
 * [How to Build a Next.js PDF Viewer with PSPDFKit](https://pspdfkit.com/blog/2021/how-to-build-a-nextjs-pdf-viewer-with-pspdfkit/)
 * [pspdfkit for Next.js](https://pspdfkit.com/guides/web/downloads/)
+* [Puppeteer - PDF generation](https://pptr.dev/)
+* [Generating PDF files using Next.js](https://dev.to/wonder2210/generating-pdf-files-using-next-js-24dm)
+  *[codesandbox: nextjs-pdf](https://codesandbox.io/s/nextjs-pdf-ghd9v)
