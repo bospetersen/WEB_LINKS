@@ -21,6 +21,7 @@
 * [Displaying PDF in React app](https://levelup.gitconnected.com/displaying-pdf-in-react-app-6e9d1fffa1a9)
   * [React renderer for creating PDF files on the browser and server](https://github.com/diegomura/react-pdf)
   * [Display PDFs in your React app as easily as if they were images](https://github.com/wojtekmaj/react-pdf)
+* [pspdfkit for Next.js](https://pspdfkit.com/guides/web/downloads/)
 
 ## Different Components
 * [Easily display PDFs in your React app.](https://projects.wojtekmaj.pl/react-pdf/)
